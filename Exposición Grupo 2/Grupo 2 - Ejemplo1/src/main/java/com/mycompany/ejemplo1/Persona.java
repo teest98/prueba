@@ -10,6 +10,8 @@ public class Persona {
     private int edad;
 
     private int dni;
+
+private int id;
 	
     //Constructor
 
